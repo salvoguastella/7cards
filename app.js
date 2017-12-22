@@ -8,7 +8,7 @@ let faces = require("./lib/shared").faces;
 
 let suits = require("./lib/shared").suits;
 
-//comment one or more ot these line to remove them from the game
+//#ROLES comment one or more ot these line to remove them from the game
 let roles = [
     new Role("Gola", faces.k, suits.c),
     new Role("Ira", faces.k, suits.s),
