@@ -8,5 +8,5 @@ Run `node app.js` (or `nodemon app.js`)
 
 Enjoy.
 
-Search for `//#ROLES` comment line in `app.js` and 
+Search for `//#ROLES` comment line in `lb/config.js` and 
 edit the array below as desired to change game data
